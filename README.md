@@ -4,7 +4,7 @@
 
 You can open this sample in the Dev Environments feature of Docker Desktop version 4.12 or later.
 
-[Open in Docker Dev Environments <img src="../open_in_new.svg" alt="Open in Docker Dev Environments" align="top"/>](https://open.docker.com/dashboard/dev-envs?url=https://github.com/docker/awesome-compose/tree/master/spring-postgres)
+[Open in Docker Dev Environments <img src="https://user-images.githubusercontent.com/110657529/209979908-cb1aaeea-9fb4-4ddc-98f8-4f2c194c9bc2.png" alt="Open in Docker Dev Environments" align="top"/>](https://open.docker.com/dashboard/dev-envs?url=https://github.com/docker/awesome-compose/tree/master/spring-postgres)
 
 ### Java application with Spring framework and a Postgres database
 
@@ -21,7 +21,7 @@ Project structure:
 
 ```
 
-[_compose.yaml_](compose.yaml)
+compose.yaml
 ```
 services:
   backend:
